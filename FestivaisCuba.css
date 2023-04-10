@@ -1,27 +1,18 @@
 body{
+    background-color:lightskyblue ;
 }
-
-.h1{
+h1{
     color: black;
     text-align: center;
 }
-ol{
-    list-style: disc;
-    font-size: larger;
-}
+
 p{
     font-size: larger;
     text-align: justify;
 }
-h2{
-    text-align: justify;
-}
-.imagem1{
+.imagem3{
     margin: auto 410px;
 }
 .h11{
     text-align: justify;
-}
-li{
-    
 }
